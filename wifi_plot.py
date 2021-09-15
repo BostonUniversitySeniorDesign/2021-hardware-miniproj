@@ -3,7 +3,7 @@
 """
 plots data collected by wifi_scan.py
 
-Typically run this on your laptop unless you have a graphical display or VNC setup on Raspberry Pi.
+Typically run this on your laptop.
 """
 
 from __future__ import annotations

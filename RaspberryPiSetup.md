@@ -96,6 +96,8 @@ Additional ways to connect the Pi to the internet include:
 * Ethernet cable to an internet-connected wall jack
 * WiFi hotspot
 
+Note: we've seen that MacOS hotspot might not be visible to any other devices (Raspberry Pi or any other device).  Perhaps try your phone WiFi hotspot, or try university's Guest wifi (will need keyboard and display for Pi to setup university Guest network)
+
 You can check that the Pi is on the internet by typing in the Pi terminal (over SSH or HDMI+keyboard):
 
 ```sh
